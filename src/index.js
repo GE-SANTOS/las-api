@@ -1,4 +1,4 @@
-const customExpress = require("./config/customExpress");
+const customExpress = require("./config/customExpress.js");
 const conexao = require("./infraestrutura/conexao");
 const Tabelas = require("./infraestrutura/tabelas");
 
